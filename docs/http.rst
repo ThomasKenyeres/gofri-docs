@@ -7,26 +7,12 @@ The usage of http decorators and other tools.
 Configuration
 -------------
 
-Host configuration is available in conf.xml:
-
-.. code-block:: xml
-    :emphasize-lines: 6, 7
-
-    <configuration>
-    <project>
-        <app-path>example.app</app-path>
-    </project>
-    <hosting>
-        <host></host>
-        <port>8080</port>
-    </hosting>
-
-If you leave ``<host>`` empty, the default is 127.0.0.1.
+HTTP configuration is available in `conf.xml <config.html>`__
 
 HTTP controllers
 ----------------
 
-Generate a controller (explained `here <Generator_>`__).
+Generate a controller (explained `here <generator.html>`_).
 
 
 Decorator usage

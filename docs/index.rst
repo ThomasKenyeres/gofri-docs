@@ -10,7 +10,10 @@ Welcome to Gofri's documentation!
     :maxdepth: 1
     :caption: Getting started:
 
+    install
     init
+    generator
+
 
 .. toctree::
     :maxdepth: 1
@@ -22,6 +25,8 @@ Welcome to Gofri's documentation!
 .. toctree::
     :maxdepth: 2
     :caption: Configuration:
+
+    config
 
 
 

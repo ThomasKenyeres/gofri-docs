@@ -1,5 +1,3 @@
 .idea/*
 
-docs/Makefile
-docs/make.bat
 docs/_build

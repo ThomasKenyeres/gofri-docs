@@ -59,6 +59,9 @@ Use the ``gofri.lib.decorate.http`` module.
 
     Requires request parameter: ``<host>/person?person_id=1``
 
-:@POST:
+:@POST: \
+    ``@POST`` works the same way as ``@GET`` in ``v1.0.1``, and all kind of request data can be accessed as in Flask.
 
 :More:
+
+    ``@HEAD``, ``@PUT`` and ``@DELETE`` is also available, currently they work the same way as ``@POST``.

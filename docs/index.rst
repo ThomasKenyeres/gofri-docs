@@ -7,22 +7,23 @@ Welcome to Gofri's documentation!
 =================================
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Getting started:
+
+    init
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Controllers:
+
+    http
+
+
+.. toctree::
     :maxdepth: 2
-    :caption: Contents:
+    :caption: Configuration:
 
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-.. include:: init.rst
-.. include:: generator.rst
-.. include:: http.rst
-.. include:: install.rst
 

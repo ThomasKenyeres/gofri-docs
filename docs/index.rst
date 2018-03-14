@@ -10,23 +10,27 @@ Welcome to Gofri's documentation!
     :maxdepth: 1
     :caption: Getting started:
 
-    install
-    init
-    generator
+    getting_started/install
+    getting_started/init
+    getting_started/config
+    getting_started/start
+    getting_started/generator
+
+
+.. .. toctree::
+    :maxdepth: 1
+    :caption: Tutorial:
+
+..    tutorial/setup
+    tutorial/working_controller
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Controllers:
 
-    http
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Configuration:
-
-    config
+    controllers/http
+    controllers/filter
 
 
 

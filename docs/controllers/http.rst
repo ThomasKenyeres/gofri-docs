@@ -1,5 +1,5 @@
-HTTP
-====
+HTTP request handling
+=====================
 
 The usage of http decorators and other tools.
 
@@ -7,12 +7,12 @@ The usage of http decorators and other tools.
 Configuration
 -------------
 
-HTTP configuration is available in `conf.xml <config.html>`__
+HTTP configuration is available in `conf.xml <../getting_started/config.html#http>`__
 
 HTTP controllers
 ----------------
 
-Generate a controller (explained `here <generator.html>`_).
+Generate a controller (explained `here <../getting_started/generator.html>`_).
 
 
 Decorator usage

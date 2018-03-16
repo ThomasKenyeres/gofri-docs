@@ -22,13 +22,14 @@ Generate predefined modules:
 
     generate
         controller <name>
+        filter <name>
         service <name>
-        model <name>
+        dto <name>
         entity <name> [column names separated with space]
 
 
 Example usage:
 
-.. code-block:: none
+.. code-block:: bash
 
-    python3 generate.py generate entity dog name breed birth_year
+    $ python3 generate.py generate entity dog name breed birth_year

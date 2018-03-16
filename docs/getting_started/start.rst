@@ -1,7 +1,7 @@
 Start your application
 ======================
 
-To start your webapp run ``python3 start.py`` in the root package.
+To start your webapp run ``$ python3 start.py`` in the root package.
 
 Expected output after startup:
 

@@ -1,7 +1,7 @@
 Initializing a project
 ======================
 
-``python3 -m gofri.generate_project <project-name>`` is the common way to create a project,
+``$ python3 -m gofri.generate_project <project-name>`` is the common way to create a project,
 which will have the following structure
 
 

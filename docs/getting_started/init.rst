@@ -5,8 +5,6 @@ Initializing a project
 which will have the following structure
 
 
-The following is a SQL statement.
-
 .. code-block:: none
 
    My-First-Project
